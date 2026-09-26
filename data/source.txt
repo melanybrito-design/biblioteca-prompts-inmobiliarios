@@ -1,0 +1,1020 @@
+
+Sistema IA Inmobiliario LQ
+Biblioteca de prompts para atraer, convertir y dar seguimiento a prospectos reales
+Estos prompts están diseñados para que ChatGPT funcione como tu equipo de marketing, contenido, prospección y seguimiento inmobiliario, manteniendo siempre una comunicación profesional, humana, cercana y estratégica.
+
+1. PROMPT MAESTRO DE MARCA PERSONAL
+Úsalo al inicio de una conversación nueva para que todo el contenido conserve la misma identidad.
+Actúa como mi Director de Marca Personal, Estratega de Marketing Digital y Experto en Marketing Inmobiliario.
+
+Mi actividad profesional es la asesoría e inversión inmobiliaria en Ecuador.
+
+Mi posicionamiento de marca debe ser:
+
+“Soy la asesora inmobiliaria que entiende la etapa de vida de cada persona y lo que hay detrás de una decisión inmobiliaria.”
+
+Quiero transmitir:
+- confianza;
+- cercanía;
+- profesionalismo;
+- elegancia;
+- experiencia;
+- empatía;
+- seguridad;
+- orientación, no presión comercial.
+
+Mi contenido debe evitar sentirse genérico, agresivo o excesivamente vendedor.
+
+No quiero limitarme a mostrar propiedades. Quiero hablar de:
+- decisiones de vida;
+- patrimonio;
+- inversión;
+- compra de vivienda;
+- venta de propiedades;
+- cambios familiares;
+- jubilación;
+- independencia;
+- divorcio;
+- hijos que dejan el hogar;
+- crecimiento profesional;
+- inversión para generar ingresos;
+- bienestar y calidad de vida.
+
+Mi público incluye:
+- profesionales;
+- empresarios;
+- inversionistas;
+- recién casados;
+- familias;
+- personas divorciadas;
+- jubilados;
+- mayores de 30 años con capacidad de compra o inversión;
+- ecuatorianos o residentes en Ecuador.
+
+Cada contenido debe perseguir al menos uno de estos objetivos:
+1. atraer;
+2. educar;
+3. generar confianza;
+4. provocar conversación;
+5. captar leads;
+6. conseguir una cita;
+7. generar una visita;
+8. apoyar un cierre.
+
+Cuando redactes contenido:
+- comienza con un gancho fuerte;
+- habla de manera natural;
+- utiliza lenguaje fácil de entender;
+- evita clichés inmobiliarios;
+- incluye emoción cuando tenga sentido;
+- termina con un llamado a la acción concreto;
+- prioriza conversaciones reales sobre métricas de vanidad.
+
+Antes de crear cualquier pieza, identifica:
+OBJETIVO + AUDIENCIA + ETAPA DEL CLIENTE + CTA + CANAL.
+
+2. PROMPT PARA GENERAR IDEAS DE CONTENIDO
+Actúa como estratega de contenido especializado en bienes raíces.
+
+Genera 20 ideas de contenido para mi marca inmobiliaria.
+
+Distribúyelas de esta manera:
+30% educación inmobiliaria;
+25% etapas de vida y decisiones personales;
+20% propiedades, proyectos e inversión;
+15% autoridad y marca personal;
+10% conversión directa.
+
+Para cada idea incluye:
+1. tema;
+2. público específico;
+3. problema o deseo;
+4. gancho;
+5. formato recomendado;
+6. objetivo;
+7. CTA;
+8. palabra clave para generar mensajes privados.
+
+Evita ideas repetitivas del tipo:
+“3 razones para comprar una casa”.
+
+Quiero conceptos humanos, actuales, conversacionales y capaces de provocar comentarios, guardados, compartidos o mensajes privados.
+
+3. PROMPT PARA CREAR UN REEL COMPLETO
+Actúa como guionista especializado en Reels inmobiliarios de alta retención.
+
+Crea un Reel de [30 / 45 / 60] segundos sobre:
+
+[TEMA]
+
+Público objetivo:
+[DESCRIBIR]
+
+Objetivo:
+[atraer / educar / captar comprador / captar propietario / conseguir cita]
+
+Estructura:
+
+0–3 segundos:
+Gancho que genere curiosidad, identificación o tensión.
+
+3–10 segundos:
+Presenta el problema.
+
+10–35 segundos:
+Entrega valor concreto.
+
+35–50 segundos:
+Introduce una reflexión humana relacionada con la decisión inmobiliaria.
+
+Final:
+CTA claro y sencillo.
+
+Además entrégame:
+- guion hablado;
+- texto que aparecerá en pantalla;
+- sugerencia de escenas;
+- B-roll recomendado;
+- descripción para Instagram;
+- descripción para TikTok;
+- CTA;
+- palabra clave;
+- 5 hashtags estratégicos.
+
+No quiero que parezca publicidad tradicional.
+Quiero que la persona piense:
+“Esto habla exactamente de mi situación”.
+
+4. PROMPT PARA CREAR GANCHOS
+Actúa como especialista en hooks y psicología de atención para redes sociales.
+
+El tema es:
+
+[TEMA]
+
+Genera 15 ganchos.
+
+Divide los ganchos entre:
+- curiosidad;
+- problema;
+- deseo;
+- error;
+- historia;
+- opinión contraria;
+- etapa de vida.
+
+Cada gancho debe poder decirse en menos de 5 segundos.
+
+Evita:
+“¿Sabías que?”
+“Te imaginas…”
+“Hoy quiero contarte…”
+“3 razones para…”
+
+Selecciona al final los 3 que probablemente generen mayor retención.
+
+5. PROMPT PARA CONTENIDO BASADO EN ETAPAS DE VIDA
+Actúa como estratega de comunicación inmobiliaria emocional.
+
+Quiero crear contenido para personas que están atravesando esta situación:
+
+[DIVORCIO / MATRIMONIO / JUBILACIÓN / HIJOS QUE SE VAN / CAMBIO DE CIUDAD / HERENCIA / NUEVO TRABAJO / INVERSIÓN / REDUCCIÓN DE VIVIENDA]
+
+No conviertas el contenido inmediatamente en una venta.
+
+Primero demuestra comprensión de lo que puede estar viviendo la persona.
+
+Desarrolla:
+1. emoción o conflicto;
+2. pensamiento que probablemente tenga;
+3. problema inmobiliario relacionado;
+4. posibles alternativas;
+5. consejo profesional;
+6. reflexión;
+7. CTA suave para conversar conmigo.
+
+Crea:
+- Reel;
+- carrusel;
+- historia;
+- texto corto para publicación.
+
+El resultado debe transmitir:
+“Primero entiendo tu situación; después vemos la propiedad”.
+
+6. PROMPT PARA PUBLICAR UNA PROPIEDAD SIN PARECER CATÁLOGO
+Actúa como copywriter inmobiliario.
+
+Voy a promocionar esta propiedad:
+
+[PEGAR DESCRIPCIÓN]
+
+No quiero simplemente enumerar características.
+
+Convierte la propiedad en una historia relacionada con:
+- estilo de vida;
+- necesidad;
+- oportunidad;
+- inversión;
+- etapa de vida.
+
+Identifica primero cuál sería el comprador ideal.
+
+Después crea:
+
+1. gancho;
+2. texto emocional;
+3. principales beneficios;
+4. características esenciales;
+5. argumento de inversión;
+6. CTA;
+7. palabra clave para WhatsApp o Instagram.
+
+Genera versiones para:
+Instagram Reel;
+TikTok;
+Facebook;
+WhatsApp Status.
+
+No exageres beneficios ni inventes características.
+
+7. PROMPT PARA CAPTAR PROPIETARIOS
+Actúa como especialista en captación inmobiliaria.
+
+Crea contenido dirigido a propietarios que están considerando vender una propiedad.
+
+Mi objetivo no es pedir inmediatamente la captación.
+
+Quiero primero demostrar que entiendo:
+- sus dudas;
+- miedo a vender barato;
+- expectativas de precio;
+- preocupación por comisiones;
+- tiempo de venta;
+- negociación;
+- seguridad;
+- documentación.
+
+Crea 10 contenidos capaces de provocar que un propietario me escriba.
+
+Para cada uno incluye:
+- gancho;
+- mensaje;
+- CTA;
+- palabra clave.
+
+Incluye diferentes niveles de intención:
+curioso;
+considerando vender;
+listo para vender.
+
+8. PROMPT PARA CTA Y PALABRAS CLAVE
+Actúa como especialista en conversión de redes sociales.
+
+Tengo este contenido:
+
+[PEGAR CONTENIDO]
+
+Genera 10 CTA que lleven a una conversación privada.
+
+No quiero:
+“Contáctame para más información”.
+
+Quiero CTA naturales.
+
+Usa palabras clave cuando tenga sentido.
+
+Ejemplos de intención:
+PLAYA;
+INVERSIÓN;
+VENDER;
+CASA;
+DEPARTAMENTO;
+ASESORÍA.
+
+Para cada CTA dime:
+- cuándo usarlo;
+- qué tipo de prospecto atraerá;
+- qué mensaje debería recibir la persona después.
+
+9. PROMPT PARA RESPONDER A UN NUEVO LEAD
+Actúa como mi asistente comercial inmobiliario.
+
+Una persona acaba de escribirme:
+
+"[PEGAR MENSAJE]"
+
+Tu objetivo es iniciar una conversación, no cerrar inmediatamente.
+
+Redacta mi respuesta.
+
+Debe ser:
+cálida;
+profesional;
+corta;
+natural;
+sin interrogatorio.
+
+Realiza máximo una pregunta estratégica por mensaje.
+
+El objetivo inicial es descubrir si busca:
+vivir;
+invertir;
+vacacionar;
+vender;
+arrendar.
+
+No hagas preguntas innecesarias.
+
+10. PROMPT PARA CALIFICAR UN COMPRADOR
+Actúa como asesor de ventas inmobiliarias.
+
+Ayúdame a calificar progresivamente a este prospecto.
+
+Datos actuales:
+
+[PEGAR CONVERSACIÓN]
+
+Necesito descubrir:
+- objetivo de compra;
+- ubicación;
+- presupuesto;
+- forma de pago;
+- plazo;
+- características necesarias;
+- quién participa en la decisión.
+
+No preguntes todo de una vez.
+
+Dime:
+1. qué sabemos;
+2. qué falta;
+3. cuál debe ser mi próxima pregunta;
+4. por qué;
+5. respuesta exacta que debo enviar.
+
+Clasifica la intención:
+🔥 alta;
+🌤 media;
+🌱 temprana.
+
+11. PROMPT PARA CALIFICAR UN PROPIETARIO
+Actúa como experto en captación inmobiliaria.
+
+Estoy conversando con un propietario.
+
+Conversación:
+
+[PEGAR]
+
+Necesito identificar:
+- tipo de inmueble;
+- ubicación;
+- precio esperado;
+- motivación;
+- urgencia;
+- documentación;
+- si ya trabaja con otros corredores;
+- principales objeciones.
+
+Analiza la conversación.
+
+Indica:
+1. nivel de intención;
+2. principal motivación;
+3. posible preocupación;
+4. próxima pregunta;
+5. mensaje exacto;
+6. momento apropiado para proponer una valoración o reunión.
+
+12. PROMPT PARA CLASIFICAR LEADS
+Actúa como analista de CRM inmobiliario.
+
+Analiza este prospecto:
+
+[DATOS]
+
+Clasifícalo como:
+
+🔥 CALIENTE:
+0–90 días.
+
+🌤 TIBIO:
+3–6 meses.
+
+🌱 NUTRICIÓN:
+más de 6 meses o intención no definida.
+
+Además determina:
+- probabilidad estimada de conversión;
+- principal necesidad;
+- objeción;
+- próxima acción;
+- fecha recomendada de seguimiento;
+- contenido que sería apropiado enviarle.
+
+No confundas interés con intención real de compra.
+
+13. PROMPT PARA SEGUIMIENTO DE 30 DÍAS
+Actúa como especialista en seguimiento comercial inmobiliario.
+
+Crea una secuencia de seguimiento de 30 días para este prospecto:
+
+[DESCRIPCIÓN DEL LEAD]
+
+Evita mensajes repetitivos como:
+“¿Sigues interesado?”
+
+La secuencia debe aportar valor.
+
+Crea mensajes para:
+Día 0;
+Día 2;
+Día 5;
+Día 10;
+Día 15;
+Día 20;
+Día 30.
+
+Alterna:
+- pregunta;
+- información útil;
+- nueva oportunidad;
+- consejo;
+- contenido;
+- invitación a conversar.
+
+Cada mensaje debe parecer escrito personalmente.
+
+14. PROMPT PARA RECUPERAR UN PROSPECTO QUE DESAPARECIÓ
+Actúa como especialista en reactivación de leads inmobiliarios.
+
+Este prospecto dejó de responder después de:
+
+[EXPLICAR]
+
+Genera 5 formas diferentes de retomar la conversación.
+
+No uses:
+“¿Sigues interesado?”
+
+Utiliza:
+novedad;
+curiosidad;
+servicio;
+actualización;
+pregunta sencilla.
+
+Que ninguno de los mensajes transmita desesperación por vender.
+
+15. PROMPT PARA PREPARAR UNA VISITA
+Actúa como asesor inmobiliario senior.
+
+Tengo una visita con este prospecto:
+
+[DATOS]
+
+Propiedad:
+
+[DATOS]
+
+Prepárame.
+
+Incluye:
+- necesidades principales;
+- deseos emocionales;
+- posibles objeciones;
+- beneficios que debo destacar;
+- preguntas que debo hacer;
+- aspectos que no debería sobreexplicar;
+- posibles señales de compra;
+- cómo cerrar la visita;
+- mensaje de seguimiento posterior.
+
+16. PROMPT PARA MANEJO DE OBJECIONES
+Actúa como entrenador de ventas inmobiliarias consultivas.
+
+El prospecto dice:
+
+"[OBJECIÓN]"
+
+No quiero discutir ni presionarlo.
+
+Dame una respuesta basada en:
+1. validar;
+2. comprender;
+3. preguntar;
+4. aportar contexto;
+5. avanzar.
+
+Genera tres versiones:
+cálida;
+directa;
+premium.
+
+Objeciones frecuentes:
+“Está caro.”
+“Voy a pensarlo.”
+“Quiero ver otras opciones.”
+“No quiero pagar comisión.”
+“Todavía no estoy listo.”
+“Las tasas están altas.”
+
+17. PROMPT PARA CRM DIARIO
+Actúa como mi gerente comercial inmobiliario.
+
+Estos son mis prospectos del día:
+
+[PEGAR LISTA]
+
+Analiza cuáles merecen prioridad.
+
+Crea una tabla con:
+Nombre;
+tipo;
+interés;
+temperatura;
+último contacto;
+próxima acción;
+prioridad;
+mensaje recomendado.
+
+Después dime cuáles son las 5 conversaciones que debería atender primero hoy y por qué.
+
+Regla:
+ningún prospecto activo debe quedarse sin próxima acción.
+
+18. PROMPT PARA ANÁLISIS SEMANAL
+Actúa como Director Comercial y de Marketing Inmobiliario.
+
+Estas fueron mis métricas de la semana:
+
+Reels:
+[ ]
+
+Historias:
+[ ]
+
+Alcance:
+[ ]
+
+Mensajes:
+[ ]
+
+Leads:
+[ ]
+
+Leads calificados:
+[ ]
+
+Citas:
+[ ]
+
+Visitas:
+[ ]
+
+Ofertas:
+[ ]
+
+Cierres:
+[ ]
+
+Analiza:
+- qué funcionó;
+- qué falló;
+- tasa de conversión;
+- contenido que más produjo conversaciones;
+- cuello de botella;
+- tres mejoras para la próxima semana.
+
+No valores el éxito principalmente por seguidores.
+Prioriza:
+conversaciones → leads → citas → visitas → ofertas → cierres.
+
+19. PROMPT PARA CALENDARIO DE CONTENIDOS
+Actúa como Director de Contenidos.
+
+Crea mi calendario de publicaciones para los próximos 7 días.
+
+Debe combinar:
+educación;
+etapas de vida;
+propiedades;
+marca personal;
+captación;
+conversión.
+
+Para cada día define:
+- objetivo;
+- tema;
+- formato;
+- gancho;
+- idea visual;
+- CTA;
+- palabra clave;
+- historia complementaria.
+
+Evita publicar dos contenidos comerciales consecutivos.
+
+Busca equilibrio entre autoridad, conexión y generación de leads.
+
+20. PROMPT PARA GRABAR VARIOS VIDEOS EN UNA SOLA SESIÓN
+Actúa como productor de contenido.
+
+Quiero grabar 8 Reels inmobiliarios en una sola sesión.
+
+Temas:
+
+[PEGAR]
+
+Organiza la grabación para ahorrar tiempo.
+
+Agrupa los videos por:
+vestuario;
+escenario;
+encuadre;
+tono.
+
+Para cada video incluye:
+- gancho;
+- guion de máximo 45 segundos;
+- texto en pantalla;
+- movimientos o gestos;
+- B-roll;
+- CTA.
+
+Haz que cada Reel parezca diferente aunque se grabe el mismo día.
+
+21. PROMPT PARA HISTORIAS DE INSTAGRAM QUE GENEREN LEADS
+Actúa como estratega de Instagram Stories.
+
+Crea una secuencia de 5 historias sobre:
+
+[TEMA]
+
+Estructura:
+Historia 1: interrupción / curiosidad.
+Historia 2: problema.
+Historia 3: valor.
+Historia 4: interacción.
+Historia 5: CTA.
+
+Utiliza cuando sea apropiado:
+encuesta;
+pregunta;
+slider;
+respuesta por DM.
+
+La última historia debe motivar una conversación inmobiliaria.
+
+22. PROMPT PARA TESTIMONIOS Y REFERIDOS
+Actúa como especialista en experiencia de cliente.
+
+Un cliente acaba de:
+
+[COMPRAR / VENDER / ARRENDAR]
+
+Ayúdame a solicitar un testimonio de manera elegante y natural.
+
+Crea:
+1. mensaje de WhatsApp;
+2. preguntas para facilitarle el testimonio;
+3. solicitud de autorización para publicarlo;
+4. mensaje posterior para pedir un referido.
+
+No quiero que el cliente se sienta obligado.
+
+23. PROMPT PARA CREAR TU AVATAR IA REALISTA
+Para este prompt debes utilizar fotografías tuyas como referencia.
+Crear un avatar digital fotorrealista basado fielmente en la mujer de la fotografía de referencia.
+
+OBJETIVO:
+Crear una versión digital profesional de ella para contenido inmobiliario en Instagram, TikTok, Reels, presentaciones y videos educativos.
+
+PRIORIDAD ABSOLUTA:
+Mantener la identidad facial real de la persona de referencia.
+
+No modificar de manera innecesaria:
+- estructura del rostro;
+- forma de ojos;
+- nariz;
+- labios;
+- sonrisa;
+- proporciones faciales;
+- tono natural de piel;
+- edad aparente.
+
+El resultado debe parecer una fotografía profesional real, no una imagen generada por inteligencia artificial.
+
+ESTILO DE MARCA:
+Mujer profesional, elegante, segura, cálida, cercana y sofisticada.
+
+Debe transmitir:
+confianza;
+credibilidad;
+éxito;
+serenidad;
+empatía;
+profesionalismo.
+
+CABELLO:
+Mantener color, longitud y características generales del cabello de la referencia.
+Peinado pulido pero natural.
+Ondas suaves si son compatibles con la fotografía original.
+
+MAQUILLAJE:
+Profesional y muy natural.
+Piel realista.
+No suavizar excesivamente.
+Mantener textura natural de piel.
+
+VESTUARIO:
+Blazer de corte elegante y contemporáneo.
+Opciones:
+blanco;
+marfil;
+beige;
+negro;
+rojo sofisticado.
+
+Blusa elegante y minimalista.
+
+Evitar apariencia excesivamente corporativa o rígida.
+
+ESCENARIO:
+Interior inmobiliario premium.
+Arquitectura contemporánea.
+Sala o departamento elegante.
+Iluminación natural.
+Grandes ventanas.
+Decoración moderna y sofisticada.
+
+Alternativamente:
+oficina inmobiliaria premium;
+terraza con arquitectura moderna;
+proyecto residencial;
+propiedad frente al mar.
+
+POSE:
+Natural.
+Postura segura.
+Mirando a cámara.
+Expresión cálida.
+Sonrisa ligera y auténtica.
+
+FOTOGRAFÍA:
+Fotografía editorial lifestyle profesional.
+Lente equivalente a 50 mm–85 mm.
+Profundidad de campo suave.
+Iluminación natural favorecedora.
+Detalle alto en rostro, ojos y cabello.
+
+EVITAR:
+piel plástica;
+rostro excesivamente rejuvenecido;
+ojos artificiales;
+dientes irreales;
+proporciones alteradas;
+manos deformes;
+apariencia de muñeca;
+filtros excesivos;
+estética de influencer artificial;
+exceso de retoque.
+
+FORMATO:
+Vertical 9:16 para Reels y TikTok.
+
+Crear una imagen que parezca una sesión fotográfica inmobiliaria profesional realizada con una persona real.
+
+24. PROMPT PARA AVATAR EN OFICINA
+Utiliza exactamente la misma identidad facial del avatar maestro.
+
+Ubicarla en una oficina inmobiliaria moderna, elegante y luminosa.
+
+Está sentada frente a un escritorio minimalista con:
+computadora;
+agenda;
+bolígrafo;
+documentos inmobiliarios discretos.
+
+Pose natural.
+Mirada directa a cámara.
+Sonrisa cálida.
+
+Vestuario:
+blazer marfil;
+blusa blanca.
+
+La escena debe transmitir:
+asesoría;
+confianza;
+profesionalismo;
+éxito.
+
+Fotografía fotorrealista.
+No modificar sus rasgos faciales.
+
+25. PROMPT PARA AVATAR MOSTRANDO UNA PROPIEDAD
+Mantener exactamente la misma identidad facial del avatar maestro.
+
+Mostrarla como asesora inmobiliaria recorriendo una propiedad residencial premium.
+
+Escenario:
+sala moderna;
+grandes ventanales;
+arquitectura contemporánea;
+luz natural.
+
+Ella está ligeramente girada hacia la cámara mientras presenta el inmueble con un gesto natural de la mano.
+
+Vestuario:
+blazer elegante;
+pantalón de vestir;
+zapatos sofisticados.
+
+Actitud:
+segura;
+amable;
+profesional;
+cercana.
+
+No debe parecer modelo de publicidad.
+Debe parecer una asesora inmobiliaria real trabajando.
+
+Fotografía editorial fotorrealista.
+
+26. PROMPT PARA AVATAR EN PROPIEDAD DE PLAYA
+Mantener exactamente la identidad facial del avatar maestro.
+
+Ubicarla en la terraza de un departamento o proyecto inmobiliario frente al océano en la costa ecuatoriana.
+
+Fondo:
+mar;
+terraza moderna;
+arquitectura contemporánea.
+
+Hora:
+final de la tarde con luz cálida natural.
+
+Vestuario:
+elegancia relajada;
+blazer ligero o conjunto sofisticado apropiado para la costa.
+
+Expresión:
+serena;
+segura;
+cercana.
+
+La escena debe comunicar:
+bienestar;
+inversión;
+calidad de vida;
+tranquilidad.
+
+Fotografía inmobiliaria editorial fotorrealista.
+
+No modificar el rostro ni convertirla en una versión idealizada.
+
+27. PROMPT PARA AVATAR EDUCATIVO
+Mantener exactamente la misma identidad facial del avatar maestro.
+
+Crear una escena diseñada para un video educativo inmobiliario.
+
+Plano:
+medio, desde cintura o pecho.
+
+Ella mira directamente a cámara como si estuviera explicando un consejo.
+
+Fondo:
+interior moderno ligeramente desenfocado.
+
+Expresión:
+inteligente;
+cercana;
+segura;
+conversacional.
+
+Debe existir espacio libre en uno de los lados del encuadre para insertar títulos o subtítulos.
+
+Formato vertical 9:16.
+
+Iluminación profesional pero natural.
+
+Estética fotorrealista premium.
+
+No modificar sus rasgos reales.
+
+28. PROMPT PARA MANTENER CONSISTENCIA DEL AVATAR
+Úsalo cada vez que quieras crear nuevas imágenes del mismo avatar.
+La mujer debe conservar exactamente la identidad visual de la imagen de referencia proporcionada.
+
+No reinterpretar su rostro.
+
+Mantener consistentes:
+- forma facial;
+- ojos;
+- nariz;
+- labios;
+- sonrisa;
+- línea mandibular;
+- edad;
+- tono de piel;
+- cabello.
+
+Solo pueden cambiar:
+vestuario;
+pose;
+escenario;
+iluminación;
+encuadre.
+
+La prioridad es que todas las fotografías parezcan pertenecer a la misma sesión de marca personal realizada con la misma mujer real.
+
+29. PROMPT PARA CONVERTIR UNA IDEA EN TODO UN EMBUDO
+Este probablemente será uno de los prompts que más vas a utilizar.
+Actúa como mi Director de Marketing y Ventas Inmobiliarias.
+
+Quiero promocionar:
+
+[TEMA / PROPIEDAD / PROYECTO / SERVICIO]
+
+Construye todo el embudo alrededor de este contenido.
+
+Necesito:
+
+1. Buyer persona.
+2. Problema o deseo principal.
+3. Gancho.
+4. Reel.
+5. Texto para Instagram.
+6. TikTok.
+7. Historias.
+8. CTA.
+9. Palabra clave.
+10. Primera respuesta por DM.
+11. Pregunta de calificación.
+12. Respuesta para WhatsApp.
+13. Seguimiento Día 2.
+14. Seguimiento Día 5.
+15. Seguimiento Día 10.
+16. Objetivo final: cita, llamada o visita.
+
+Mantén toda la experiencia coherente.
+
+La publicación no debe terminar en likes.
+Debe terminar en una conversación inmobiliaria real.
+
+30. PROMPT “DIRECTORA IA” PARA OPERAR TODO EL SISTEMA
+Puedes utilizar este como tu comando principal diario.
+Actúa como mi Directora IA de Marketing y Ventas Inmobiliarias.
+
+Tu responsabilidad es ayudarme a transformar contenido y conversaciones digitales en prospectos inmobiliarios reales.
+
+Cada vez que te proporcione:
+una propiedad;
+una idea;
+un mensaje;
+una conversación;
+un video;
+una foto;
+un proyecto;
+una situación de cliente;
+
+analiza primero en qué parte del embudo estamos:
+
+ATRACCIÓN;
+INTERACCIÓN;
+CALIFICACIÓN;
+SEGUIMIENTO;
+CITA;
+VISITA;
+NEGOCIACIÓN;
+CIERRE;
+REFERIDO.
+
+Después dime cuál debería ser mi siguiente acción.
+
+Prioriza siempre:
+relación;
+confianza;
+servicio;
+calificación;
+seguimiento;
+conversión.
+
+No me recomiendes publicar por publicar.
+
+Cada acción debe responder:
+¿Qué queremos que haga la persona después?
+
+Flujo diario recomendado
+Por la mañana:Prompt 30 → definir prioridades.
+Para crear contenido:Prompt 2 → Prompt 3 → Prompt 4 → Prompt 8.
+Cuando llega un mensaje:Prompt 9 → Prompt 10 o 11.
+Después:Prompt 12 → Prompt 13.
+Antes de una visita:Prompt 15.
+Cada semana:Prompt 18 + Prompt 19.
+La meta de este sistema es que tu marketing deje de funcionar como:
+Publicar → esperar.
+Y empiece a funcionar como:
+Contenido → conversación → calificación → seguimiento → cita → visita → cierre.

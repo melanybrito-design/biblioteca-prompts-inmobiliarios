@@ -1,0 +1,530 @@
+[
+  {
+    "id": "1",
+    "number": 1,
+    "title": "PROMPT MAESTRO DE MARCA PERSONAL",
+    "content": "Úsalo al inicio de una conversación nueva para que todo el contenido conserve la misma identidad.\nActúa como mi Director de Marca Personal, Estratega de Marketing Digital y Experto en Marketing Inmobiliario.\n\nMi actividad profesional es la asesoría e inversión inmobiliaria en Ecuador.\n\nMi posicionamiento de marca debe ser:\n\n“Soy la asesora inmobiliaria que entiende la etapa de vida de cada persona y lo que hay detrás de una decisión inmobiliaria.”\n\nQuiero transmitir:\n- confianza;\n- cercanía;\n- profesionalismo;\n- elegancia;\n- experiencia;\n- empatía;\n- seguridad;\n- orientación, no presión comercial.\n\nMi contenido debe evitar sentirse genérico, agresivo o excesivamente vendedor.\n\nNo quiero limitarme a mostrar propiedades. Quiero hablar de:\n- decisiones de vida;\n- patrimonio;\n- inversión;\n- compra de vivienda;\n- venta de propiedades;\n- cambios familiares;\n- jubilación;\n- independencia;\n- divorcio;\n- hijos que dejan el hogar;\n- crecimiento profesional;\n- inversión para generar ingresos;\n- bienestar y calidad de vida.\n\nMi público incluye:\n- profesionales;\n- empresarios;\n- inversionistas;\n- recién casados;\n- familias;\n- personas divorciadas;\n- jubilados;\n- mayores de 30 años con capacidad de compra o inversión;\n- ecuatorianos o residentes en Ecuador.\n\nCada contenido debe perseguir al menos uno de estos objetivos:\n1. atraer;\n2. educar;\n3. generar confianza;\n4. provocar conversación;\n5. captar leads;\n6. conseguir una cita;\n7. generar una visita;\n8. apoyar un cierre.\n\nCuando redactes contenido:\n- comienza con un gancho fuerte;\n- habla de manera natural;\n- utiliza lenguaje fácil de entender;\n- evita clichés inmobiliarios;\n- incluye emoción cuando tenga sentido;\n- termina con un llamado a la acción concreto;\n- prioriza conversaciones reales sobre métricas de vanidad.\n\nAntes de crear cualquier pieza, identifica:\nOBJETIVO + AUDIENCIA + ETAPA DEL CLIENTE + CTA + CANAL.",
+    "displayTitle": "Marca personal",
+    "objective": "Define una identidad cercana y coherente para toda tu comunicación.",
+    "category": "Marca y estrategia",
+    "tags": [
+      "atracción"
+    ],
+    "related": [
+      2
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "2",
+    "number": 2,
+    "title": "PROMPT PARA GENERAR IDEAS DE CONTENIDO",
+    "content": "Actúa como estratega de contenido especializado en bienes raíces.\n\nGenera 20 ideas de contenido para mi marca inmobiliaria.\n\nDistribúyelas de esta manera:\n30% educación inmobiliaria;\n25% etapas de vida y decisiones personales;\n20% propiedades, proyectos e inversión;\n15% autoridad y marca personal;\n10% conversión directa.\n\nPara cada idea incluye:\n1. tema;\n2. público específico;\n3. problema o deseo;\n4. gancho;\n5. formato recomendado;\n6. objetivo;\n7. CTA;\n8. palabra clave para generar mensajes privados.\n\nEvita ideas repetitivas del tipo:\n“3 razones para comprar una casa”.\n\nQuiero conceptos humanos, actuales, conversacionales y capaces de provocar comentarios, guardados, compartidos o mensajes privados.",
+    "displayTitle": "Ideas de contenido",
+    "objective": "Genera 20 ideas con audiencia, gancho, formato y objetivo.",
+    "category": "Contenido y publicaciones",
+    "tags": [
+      "atracción"
+    ],
+    "related": [
+      1,
+      3
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "3",
+    "number": 3,
+    "title": "PROMPT PARA CREAR UN REEL COMPLETO",
+    "content": "Actúa como guionista especializado en Reels inmobiliarios de alta retención.\n\nCrea un Reel de [30 / 45 / 60] segundos sobre:\n\n[TEMA]\n\nPúblico objetivo:\n[DESCRIBIR]\n\nObjetivo:\n[atraer / educar / captar comprador / captar propietario / conseguir cita]\n\nEstructura:\n\n0–3 segundos:\nGancho que genere curiosidad, identificación o tensión.\n\n3–10 segundos:\nPresenta el problema.\n\n10–35 segundos:\nEntrega valor concreto.\n\n35–50 segundos:\nIntroduce una reflexión humana relacionada con la decisión inmobiliaria.\n\nFinal:\nCTA claro y sencillo.\n\nAdemás entrégame:\n- guion hablado;\n- texto que aparecerá en pantalla;\n- sugerencia de escenas;\n- B-roll recomendado;\n- descripción para Instagram;\n- descripción para TikTok;\n- CTA;\n- palabra clave;\n- 5 hashtags estratégicos.\n\nNo quiero que parezca publicidad tradicional.\nQuiero que la persona piense:\n“Esto habla exactamente de mi situación”.",
+    "displayTitle": "Un Reel completo",
+    "objective": "Convierte un tema en un guion con escenas, textos y llamada a la acción.",
+    "category": "Contenido y publicaciones",
+    "tags": [
+      "atracción"
+    ],
+    "related": [
+      2,
+      4
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "4",
+    "number": 4,
+    "title": "PROMPT PARA CREAR GANCHOS",
+    "content": "Actúa como especialista en hooks y psicología de atención para redes sociales.\n\nEl tema es:\n\n[TEMA]\n\nGenera 15 ganchos.\n\nDivide los ganchos entre:\n- curiosidad;\n- problema;\n- deseo;\n- error;\n- historia;\n- opinión contraria;\n- etapa de vida.\n\nCada gancho debe poder decirse en menos de 5 segundos.\n\nEvita:\n“¿Sabías que?”\n“Te imaginas…”\n“Hoy quiero contarte…”\n“3 razones para…”\n\nSelecciona al final los 3 que probablemente generen mayor retención.",
+    "displayTitle": "Ganchos que conectan",
+    "objective": "Explora 15 aperturas y selecciona las tres con mayor potencial.",
+    "category": "Contenido y publicaciones",
+    "tags": [
+      "atracción"
+    ],
+    "related": [
+      3,
+      5
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "5",
+    "number": 5,
+    "title": "PROMPT PARA CONTENIDO BASADO EN ETAPAS DE VIDA",
+    "content": "Actúa como estratega de comunicación inmobiliaria emocional.\n\nQuiero crear contenido para personas que están atravesando esta situación:\n\n[DIVORCIO / MATRIMONIO / JUBILACIÓN / HIJOS QUE SE VAN / CAMBIO DE CIUDAD / HERENCIA / NUEVO TRABAJO / INVERSIÓN / REDUCCIÓN DE VIVIENDA]\n\nNo conviertas el contenido inmediatamente en una venta.\n\nPrimero demuestra comprensión de lo que puede estar viviendo la persona.\n\nDesarrolla:\n1. emoción o conflicto;\n2. pensamiento que probablemente tenga;\n3. problema inmobiliario relacionado;\n4. posibles alternativas;\n5. consejo profesional;\n6. reflexión;\n7. CTA suave para conversar conmigo.\n\nCrea:\n- Reel;\n- carrusel;\n- historia;\n- texto corto para publicación.\n\nEl resultado debe transmitir:\n“Primero entiendo tu situación; después vemos la propiedad”.",
+    "displayTitle": "Contenido para etapas de vida",
+    "objective": "Conecta con las decisiones y emociones de cada etapa de vida.",
+    "category": "Contenido y publicaciones",
+    "tags": [
+      "atracción",
+      "interacción"
+    ],
+    "related": [
+      4,
+      6
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "6",
+    "number": 6,
+    "title": "PROMPT PARA PUBLICAR UNA PROPIEDAD SIN PARECER CATÁLOGO",
+    "content": "Actúa como copywriter inmobiliario.\n\nVoy a promocionar esta propiedad:\n\n[PEGAR DESCRIPCIÓN]\n\nNo quiero simplemente enumerar características.\n\nConvierte la propiedad en una historia relacionada con:\n- estilo de vida;\n- necesidad;\n- oportunidad;\n- inversión;\n- etapa de vida.\n\nIdentifica primero cuál sería el comprador ideal.\n\nDespués crea:\n\n1. gancho;\n2. texto emocional;\n3. principales beneficios;\n4. características esenciales;\n5. argumento de inversión;\n6. CTA;\n7. palabra clave para WhatsApp o Instagram.\n\nGenera versiones para:\nInstagram Reel;\nTikTok;\nFacebook;\nWhatsApp Status.\n\nNo exageres beneficios ni inventes características.",
+    "displayTitle": "Publicar una propiedad",
+    "objective": "Transforma las características de un inmueble en una historia.",
+    "category": "Contenido y publicaciones",
+    "tags": [
+      "atracción"
+    ],
+    "related": [
+      5,
+      7
+    ],
+    "aliases": "publicar una propiedad inmueble"
+  },
+  {
+    "id": "7",
+    "number": 7,
+    "title": "PROMPT PARA CAPTAR PROPIETARIOS",
+    "content": "Actúa como especialista en captación inmobiliaria.\n\nCrea contenido dirigido a propietarios que están considerando vender una propiedad.\n\nMi objetivo no es pedir inmediatamente la captación.\n\nQuiero primero demostrar que entiendo:\n- sus dudas;\n- miedo a vender barato;\n- expectativas de precio;\n- preocupación por comisiones;\n- tiempo de venta;\n- negociación;\n- seguridad;\n- documentación.\n\nCrea 10 contenidos capaces de provocar que un propietario me escriba.\n\nPara cada uno incluye:\n- gancho;\n- mensaje;\n- CTA;\n- palabra clave.\n\nIncluye diferentes niveles de intención:\ncurioso;\nconsiderando vender;\nlisto para vender.",
+    "displayTitle": "Captar propietarios",
+    "objective": "Conecta con las dudas y motivaciones de quienes quieren vender.",
+    "category": "Contenido y publicaciones",
+    "tags": [
+      "atracción",
+      "interacción"
+    ],
+    "related": [
+      6,
+      8
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "8",
+    "number": 8,
+    "title": "PROMPT PARA CTA Y PALABRAS CLAVE",
+    "content": "Actúa como especialista en conversión de redes sociales.\n\nTengo este contenido:\n\n[PEGAR CONTENIDO]\n\nGenera 10 CTA que lleven a una conversación privada.\n\nNo quiero:\n“Contáctame para más información”.\n\nQuiero CTA naturales.\n\nUsa palabras clave cuando tenga sentido.\n\nEjemplos de intención:\nPLAYA;\nINVERSIÓN;\nVENDER;\nCASA;\nDEPARTAMENTO;\nASESORÍA.\n\nPara cada CTA dime:\n- cuándo usarlo;\n- qué tipo de prospecto atraerá;\n- qué mensaje debería recibir la persona después.",
+    "displayTitle": "CTA y palabras clave",
+    "objective": "Invita a una conversación privada con llamadas a la acción naturales.",
+    "category": "Contenido y publicaciones",
+    "tags": [
+      "interacción"
+    ],
+    "related": [
+      7,
+      9
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "9",
+    "number": 9,
+    "title": "PROMPT PARA RESPONDER A UN NUEVO LEAD",
+    "content": "Actúa como mi asistente comercial inmobiliario.\n\nUna persona acaba de escribirme:\n\n\"[PEGAR MENSAJE]\"\n\nTu objetivo es iniciar una conversación, no cerrar inmediatamente.\n\nRedacta mi respuesta.\n\nDebe ser:\ncálida;\nprofesional;\ncorta;\nnatural;\nsin interrogatorio.\n\nRealiza máximo una pregunta estratégica por mensaje.\n\nEl objetivo inicial es descubrir si busca:\nvivir;\ninvertir;\nvacacionar;\nvender;\narrendar.\n\nNo hagas preguntas innecesarias.",
+    "displayTitle": "Responder a un nuevo lead",
+    "objective": "Responde con calidez y descubre qué necesita la persona.",
+    "category": "Conversaciones y prospectos",
+    "tags": [
+      "interacción"
+    ],
+    "related": [
+      8,
+      10
+    ],
+    "aliases": "responder un lead mensaje prospecto"
+  },
+  {
+    "id": "10",
+    "number": 10,
+    "title": "PROMPT PARA CALIFICAR UN COMPRADOR",
+    "content": "Actúa como asesor de ventas inmobiliarias.\n\nAyúdame a calificar progresivamente a este prospecto.\n\nDatos actuales:\n\n[PEGAR CONVERSACIÓN]\n\nNecesito descubrir:\n- objetivo de compra;\n- ubicación;\n- presupuesto;\n- forma de pago;\n- plazo;\n- características necesarias;\n- quién participa en la decisión.\n\nNo preguntes todo de una vez.\n\nDime:\n1. qué sabemos;\n2. qué falta;\n3. cuál debe ser mi próxima pregunta;\n4. por qué;\n5. respuesta exacta que debo enviar.\n\nClasifica la intención:\n🔥 alta;\n🌤 media;\n🌱 temprana.",
+    "displayTitle": "Calificar un comprador",
+    "objective": "Identifica necesidades y define la siguiente pregunta sin interrogar.",
+    "category": "Conversaciones y prospectos",
+    "tags": [
+      "calificación",
+      "cita"
+    ],
+    "related": [
+      9,
+      11
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "11",
+    "number": 11,
+    "title": "PROMPT PARA CALIFICAR UN PROPIETARIO",
+    "content": "Actúa como experto en captación inmobiliaria.\n\nEstoy conversando con un propietario.\n\nConversación:\n\n[PEGAR]\n\nNecesito identificar:\n- tipo de inmueble;\n- ubicación;\n- precio esperado;\n- motivación;\n- urgencia;\n- documentación;\n- si ya trabaja con otros corredores;\n- principales objeciones.\n\nAnaliza la conversación.\n\nIndica:\n1. nivel de intención;\n2. principal motivación;\n3. posible preocupación;\n4. próxima pregunta;\n5. mensaje exacto;\n6. momento apropiado para proponer una valoración o reunión.",
+    "displayTitle": "Calificar un propietario",
+    "objective": "Comprende la motivación del propietario y propone el siguiente paso.",
+    "category": "Conversaciones y prospectos",
+    "tags": [
+      "calificación",
+      "cita"
+    ],
+    "related": [
+      10,
+      12
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "12",
+    "number": 12,
+    "title": "PROMPT PARA CLASIFICAR LEADS",
+    "content": "Actúa como analista de CRM inmobiliario.\n\nAnaliza este prospecto:\n\n[DATOS]\n\nClasifícalo como:\n\n🔥 CALIENTE:\n0–90 días.\n\n🌤 TIBIO:\n3–6 meses.\n\n🌱 NUTRICIÓN:\nmás de 6 meses o intención no definida.\n\nAdemás determina:\n- probabilidad estimada de conversión;\n- principal necesidad;\n- objeción;\n- próxima acción;\n- fecha recomendada de seguimiento;\n- contenido que sería apropiado enviarle.\n\nNo confundas interés con intención real de compra.",
+    "displayTitle": "Clasificar leads",
+    "objective": "Distingue interés de intención y prioriza cada prospecto.",
+    "category": "Conversaciones y prospectos",
+    "tags": [
+      "calificación",
+      "seguimiento"
+    ],
+    "related": [
+      11,
+      13
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "13",
+    "number": 13,
+    "title": "PROMPT PARA SEGUIMIENTO DE 30 DÍAS",
+    "content": "Actúa como especialista en seguimiento comercial inmobiliario.\n\nCrea una secuencia de seguimiento de 30 días para este prospecto:\n\n[DESCRIPCIÓN DEL LEAD]\n\nEvita mensajes repetitivos como:\n“¿Sigues interesado?”\n\nLa secuencia debe aportar valor.\n\nCrea mensajes para:\nDía 0;\nDía 2;\nDía 5;\nDía 10;\nDía 15;\nDía 20;\nDía 30.\n\nAlterna:\n- pregunta;\n- información útil;\n- nueva oportunidad;\n- consejo;\n- contenido;\n- invitación a conversar.\n\nCada mensaje debe parecer escrito personalmente.",
+    "displayTitle": "Seguimiento de 30 días",
+    "objective": "Mantén la conversación con una secuencia que aporte valor.",
+    "category": "Conversaciones y prospectos",
+    "tags": [
+      "seguimiento",
+      "cita"
+    ],
+    "related": [
+      12,
+      14
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "14",
+    "number": 14,
+    "title": "PROMPT PARA RECUPERAR UN PROSPECTO QUE DESAPARECIÓ",
+    "content": "Actúa como especialista en reactivación de leads inmobiliarios.\n\nEste prospecto dejó de responder después de:\n\n[EXPLICAR]\n\nGenera 5 formas diferentes de retomar la conversación.\n\nNo uses:\n“¿Sigues interesado?”\n\nUtiliza:\nnovedad;\ncuriosidad;\nservicio;\nactualización;\npregunta sencilla.\n\nQue ninguno de los mensajes transmita desesperación por vender.",
+    "displayTitle": "Recuperar un prospecto",
+    "objective": "Retoma el contacto de forma natural y sin presión.",
+    "category": "Conversaciones y prospectos",
+    "tags": [
+      "seguimiento"
+    ],
+    "related": [
+      13,
+      15
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "15",
+    "number": 15,
+    "title": "PROMPT PARA PREPARAR UNA VISITA",
+    "content": "Actúa como asesor inmobiliario senior.\n\nTengo una visita con este prospecto:\n\n[DATOS]\n\nPropiedad:\n\n[DATOS]\n\nPrepárame.\n\nIncluye:\n- necesidades principales;\n- deseos emocionales;\n- posibles objeciones;\n- beneficios que debo destacar;\n- preguntas que debo hacer;\n- aspectos que no debería sobreexplicar;\n- posibles señales de compra;\n- cómo cerrar la visita;\n- mensaje de seguimiento posterior.",
+    "displayTitle": "Preparar una visita",
+    "objective": "Prepara argumentos, preguntas y el seguimiento de una visita.",
+    "category": "Visitas y trabajo diario",
+    "tags": [
+      "visita",
+      "cierre"
+    ],
+    "related": [
+      14,
+      16
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "16",
+    "number": 16,
+    "title": "PROMPT PARA MANEJO DE OBJECIONES",
+    "content": "Actúa como entrenador de ventas inmobiliarias consultivas.\n\nEl prospecto dice:\n\n\"[OBJECIÓN]\"\n\nNo quiero discutir ni presionarlo.\n\nDame una respuesta basada en:\n1. validar;\n2. comprender;\n3. preguntar;\n4. aportar contexto;\n5. avanzar.\n\nGenera tres versiones:\ncálida;\ndirecta;\npremium.\n\nObjeciones frecuentes:\n“Está caro.”\n“Voy a pensarlo.”\n“Quiero ver otras opciones.”\n“No quiero pagar comisión.”\n“Todavía no estoy listo.”\n“Las tasas están altas.”",
+    "displayTitle": "Manejo de objeciones",
+    "objective": "Responde con empatía y contexto a las dudas del prospecto.",
+    "category": "Conversaciones y prospectos",
+    "tags": [
+      "negociación",
+      "cierre"
+    ],
+    "related": [
+      15,
+      17
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "17",
+    "number": 17,
+    "title": "PROMPT PARA CRM DIARIO",
+    "content": "Actúa como mi gerente comercial inmobiliario.\n\nEstos son mis prospectos del día:\n\n[PEGAR LISTA]\n\nAnaliza cuáles merecen prioridad.\n\nCrea una tabla con:\nNombre;\ntipo;\ninterés;\ntemperatura;\núltimo contacto;\npróxima acción;\nprioridad;\nmensaje recomendado.\n\nDespués dime cuáles son las 5 conversaciones que debería atender primero hoy y por qué.\n\nRegla:\nningún prospecto activo debe quedarse sin próxima acción.",
+    "displayTitle": "CRM diario",
+    "objective": "Ordena tus contactos y prioriza las cinco conversaciones del día.",
+    "category": "Visitas y trabajo diario",
+    "tags": [
+      "seguimiento"
+    ],
+    "related": [
+      16,
+      18
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "18",
+    "number": 18,
+    "title": "PROMPT PARA ANÁLISIS SEMANAL",
+    "content": "Actúa como Director Comercial y de Marketing Inmobiliario.\n\nEstas fueron mis métricas de la semana:\n\nReels:\n[ ]\n\nHistorias:\n[ ]\n\nAlcance:\n[ ]\n\nMensajes:\n[ ]\n\nLeads:\n[ ]\n\nLeads calificados:\n[ ]\n\nCitas:\n[ ]\n\nVisitas:\n[ ]\n\nOfertas:\n[ ]\n\nCierres:\n[ ]\n\nAnaliza:\n- qué funcionó;\n- qué falló;\n- tasa de conversión;\n- contenido que más produjo conversaciones;\n- cuello de botella;\n- tres mejoras para la próxima semana.\n\nNo valores el éxito principalmente por seguidores.\nPrioriza:\nconversaciones → leads → citas → visitas → ofertas → cierres.",
+    "displayTitle": "Análisis semanal",
+    "objective": "Analiza tus resultados y elige tres mejoras para la próxima semana.",
+    "category": "Visitas y trabajo diario",
+    "tags": [
+      "cierre"
+    ],
+    "related": [
+      17,
+      19
+    ],
+    "aliases": "plan semanal calendario semana"
+  },
+  {
+    "id": "19",
+    "number": 19,
+    "title": "PROMPT PARA CALENDARIO DE CONTENIDOS",
+    "content": "Actúa como Director de Contenidos.\n\nCrea mi calendario de publicaciones para los próximos 7 días.\n\nDebe combinar:\neducación;\netapas de vida;\npropiedades;\nmarca personal;\ncaptación;\nconversión.\n\nPara cada día define:\n- objetivo;\n- tema;\n- formato;\n- gancho;\n- idea visual;\n- CTA;\n- palabra clave;\n- historia complementaria.\n\nEvita publicar dos contenidos comerciales consecutivos.\n\nBusca equilibrio entre autoridad, conexión y generación de leads.",
+    "displayTitle": "Calendario de contenidos",
+    "objective": "Planifica siete días de publicaciones con equilibrio y propósito.",
+    "category": "Contenido y publicaciones",
+    "tags": [
+      "atracción"
+    ],
+    "related": [
+      18,
+      20
+    ],
+    "aliases": "plan semanal calendario semana"
+  },
+  {
+    "id": "20",
+    "number": 20,
+    "title": "PROMPT PARA GRABAR VARIOS VIDEOS EN UNA SOLA SESIÓN",
+    "content": "Actúa como productor de contenido.\n\nQuiero grabar 8 Reels inmobiliarios en una sola sesión.\n\nTemas:\n\n[PEGAR]\n\nOrganiza la grabación para ahorrar tiempo.\n\nAgrupa los videos por:\nvestuario;\nescenario;\nencuadre;\ntono.\n\nPara cada video incluye:\n- gancho;\n- guion de máximo 45 segundos;\n- texto en pantalla;\n- movimientos o gestos;\n- B-roll;\n- CTA.\n\nHaz que cada Reel parezca diferente aunque se grabe el mismo día.",
+    "displayTitle": "Grabar varios videos",
+    "objective": "Organiza una sesión para grabar ocho Reels diferentes.",
+    "category": "Contenido y publicaciones",
+    "tags": [
+      "atracción"
+    ],
+    "related": [
+      19,
+      21
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "21",
+    "number": 21,
+    "title": "PROMPT PARA HISTORIAS DE INSTAGRAM QUE GENEREN LEADS",
+    "content": "Actúa como estratega de Instagram Stories.\n\nCrea una secuencia de 5 historias sobre:\n\n[TEMA]\n\nEstructura:\nHistoria 1: interrupción / curiosidad.\nHistoria 2: problema.\nHistoria 3: valor.\nHistoria 4: interacción.\nHistoria 5: CTA.\n\nUtiliza cuando sea apropiado:\nencuesta;\npregunta;\nslider;\nrespuesta por DM.\n\nLa última historia debe motivar una conversación inmobiliaria.",
+    "displayTitle": "Historias que generan leads",
+    "objective": "Crea cinco historias que inviten a una conversación inmobiliaria.",
+    "category": "Contenido y publicaciones",
+    "tags": [
+      "interacción"
+    ],
+    "related": [
+      20,
+      22
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "22",
+    "number": 22,
+    "title": "PROMPT PARA TESTIMONIOS Y REFERIDOS",
+    "content": "Actúa como especialista en experiencia de cliente.\n\nUn cliente acaba de:\n\n[COMPRAR / VENDER / ARRENDAR]\n\nAyúdame a solicitar un testimonio de manera elegante y natural.\n\nCrea:\n1. mensaje de WhatsApp;\n2. preguntas para facilitarle el testimonio;\n3. solicitud de autorización para publicarlo;\n4. mensaje posterior para pedir un referido.\n\nNo quiero que el cliente se sienta obligado.",
+    "displayTitle": "Testimonios y referidos",
+    "objective": "Solicita testimonios, autorización y referidos con naturalidad.",
+    "category": "Contenido y publicaciones",
+    "tags": [
+      "referidos"
+    ],
+    "related": [
+      21,
+      23
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "23",
+    "number": 23,
+    "title": "PROMPT PARA CREAR TU AVATAR IA REALISTA",
+    "content": "Para este prompt debes utilizar fotografías tuyas como referencia.\nCrear un avatar digital fotorrealista basado fielmente en la mujer de la fotografía de referencia.\n\nOBJETIVO:\nCrear una versión digital profesional de ella para contenido inmobiliario en Instagram, TikTok, Reels, presentaciones y videos educativos.\n\nPRIORIDAD ABSOLUTA:\nMantener la identidad facial real de la persona de referencia.\n\nNo modificar de manera innecesaria:\n- estructura del rostro;\n- forma de ojos;\n- nariz;\n- labios;\n- sonrisa;\n- proporciones faciales;\n- tono natural de piel;\n- edad aparente.\n\nEl resultado debe parecer una fotografía profesional real, no una imagen generada por inteligencia artificial.\n\nESTILO DE MARCA:\nMujer profesional, elegante, segura, cálida, cercana y sofisticada.\n\nDebe transmitir:\nconfianza;\ncredibilidad;\néxito;\nserenidad;\nempatía;\nprofesionalismo.\n\nCABELLO:\nMantener color, longitud y características generales del cabello de la referencia.\nPeinado pulido pero natural.\nOndas suaves si son compatibles con la fotografía original.\n\nMAQUILLAJE:\nProfesional y muy natural.\nPiel realista.\nNo suavizar excesivamente.\nMantener textura natural de piel.\n\nVESTUARIO:\nBlazer de corte elegante y contemporáneo.\nOpciones:\nblanco;\nmarfil;\nbeige;\nnegro;\nrojo sofisticado.\n\nBlusa elegante y minimalista.\n\nEvitar apariencia excesivamente corporativa o rígida.\n\nESCENARIO:\nInterior inmobiliario premium.\nArquitectura contemporánea.\nSala o departamento elegante.\nIluminación natural.\nGrandes ventanas.\nDecoración moderna y sofisticada.\n\nAlternativamente:\noficina inmobiliaria premium;\nterraza con arquitectura moderna;\nproyecto residencial;\npropiedad frente al mar.\n\nPOSE:\nNatural.\nPostura segura.\nMirando a cámara.\nExpresión cálida.\nSonrisa ligera y auténtica.\n\nFOTOGRAFÍA:\nFotografía editorial lifestyle profesional.\nLente equivalente a 50 mm–85 mm.\nProfundidad de campo suave.\nIluminación natural favorecedora.\nDetalle alto en rostro, ojos y cabello.\n\nEVITAR:\npiel plástica;\nrostro excesivamente rejuvenecido;\nojos artificiales;\ndientes irreales;\nproporciones alteradas;\nmanos deformes;\napariencia de muñeca;\nfiltros excesivos;\nestética de influencer artificial;\nexceso de retoque.\n\nFORMATO:\nVertical 9:16 para Reels y TikTok.\n\nCrear una imagen que parezca una sesión fotográfica inmobiliaria profesional realizada con una persona real.",
+    "displayTitle": "Tu avatar IA realista",
+    "objective": "Crea un avatar profesional preservando tu identidad facial.",
+    "category": "Avatar e imágenes",
+    "tags": [
+      "atracción"
+    ],
+    "related": [
+      22,
+      24
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "24",
+    "number": 24,
+    "title": "PROMPT PARA AVATAR EN OFICINA",
+    "content": "Utiliza exactamente la misma identidad facial del avatar maestro.\n\nUbicarla en una oficina inmobiliaria moderna, elegante y luminosa.\n\nEstá sentada frente a un escritorio minimalista con:\ncomputadora;\nagenda;\nbolígrafo;\ndocumentos inmobiliarios discretos.\n\nPose natural.\nMirada directa a cámara.\nSonrisa cálida.\n\nVestuario:\nblazer marfil;\nblusa blanca.\n\nLa escena debe transmitir:\nasesoría;\nconfianza;\nprofesionalismo;\néxito.\n\nFotografía fotorrealista.\nNo modificar sus rasgos faciales.",
+    "displayTitle": "Avatar en oficina",
+    "objective": "Lleva tu avatar a una oficina inmobiliaria luminosa.",
+    "category": "Avatar e imágenes",
+    "tags": [
+      "atracción"
+    ],
+    "related": [
+      23,
+      25
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "25",
+    "number": 25,
+    "title": "PROMPT PARA AVATAR MOSTRANDO UNA PROPIEDAD",
+    "content": "Mantener exactamente la misma identidad facial del avatar maestro.\n\nMostrarla como asesora inmobiliaria recorriendo una propiedad residencial premium.\n\nEscenario:\nsala moderna;\ngrandes ventanales;\narquitectura contemporánea;\nluz natural.\n\nElla está ligeramente girada hacia la cámara mientras presenta el inmueble con un gesto natural de la mano.\n\nVestuario:\nblazer elegante;\npantalón de vestir;\nzapatos sofisticados.\n\nActitud:\nsegura;\namable;\nprofesional;\ncercana.\n\nNo debe parecer modelo de publicidad.\nDebe parecer una asesora inmobiliaria real trabajando.\n\nFotografía editorial fotorrealista.",
+    "displayTitle": "Avatar mostrando una propiedad",
+    "objective": "Presenta un inmueble con tu avatar en una escena natural.",
+    "category": "Avatar e imágenes",
+    "tags": [
+      "atracción"
+    ],
+    "related": [
+      24,
+      26
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "26",
+    "number": 26,
+    "title": "PROMPT PARA AVATAR EN PROPIEDAD DE PLAYA",
+    "content": "Mantener exactamente la identidad facial del avatar maestro.\n\nUbicarla en la terraza de un departamento o proyecto inmobiliario frente al océano en la costa ecuatoriana.\n\nFondo:\nmar;\nterraza moderna;\narquitectura contemporánea.\n\nHora:\nfinal de la tarde con luz cálida natural.\n\nVestuario:\nelegancia relajada;\nblazer ligero o conjunto sofisticado apropiado para la costa.\n\nExpresión:\nserena;\nsegura;\ncercana.\n\nLa escena debe comunicar:\nbienestar;\ninversión;\ncalidad de vida;\ntranquilidad.\n\nFotografía inmobiliaria editorial fotorrealista.\n\nNo modificar el rostro ni convertirla en una versión idealizada.",
+    "displayTitle": "Avatar en propiedad de playa",
+    "objective": "Sitúa tu avatar frente al mar en la costa ecuatoriana.",
+    "category": "Avatar e imágenes",
+    "tags": [
+      "atracción"
+    ],
+    "related": [
+      25,
+      27
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "27",
+    "number": 27,
+    "title": "PROMPT PARA AVATAR EDUCATIVO",
+    "content": "Mantener exactamente la misma identidad facial del avatar maestro.\n\nCrear una escena diseñada para un video educativo inmobiliario.\n\nPlano:\nmedio, desde cintura o pecho.\n\nElla mira directamente a cámara como si estuviera explicando un consejo.\n\nFondo:\ninterior moderno ligeramente desenfocado.\n\nExpresión:\ninteligente;\ncercana;\nsegura;\nconversacional.\n\nDebe existir espacio libre en uno de los lados del encuadre para insertar títulos o subtítulos.\n\nFormato vertical 9:16.\n\nIluminación profesional pero natural.\n\nEstética fotorrealista premium.\n\nNo modificar sus rasgos reales.",
+    "displayTitle": "Avatar educativo",
+    "objective": "Prepara una escena vertical para contenido educativo.",
+    "category": "Avatar e imágenes",
+    "tags": [
+      "atracción"
+    ],
+    "related": [
+      26,
+      28
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "28",
+    "number": 28,
+    "title": "PROMPT PARA MANTENER CONSISTENCIA DEL AVATAR",
+    "content": "Úsalo cada vez que quieras crear nuevas imágenes del mismo avatar.\nLa mujer debe conservar exactamente la identidad visual de la imagen de referencia proporcionada.\n\nNo reinterpretar su rostro.\n\nMantener consistentes:\n- forma facial;\n- ojos;\n- nariz;\n- labios;\n- sonrisa;\n- línea mandibular;\n- edad;\n- tono de piel;\n- cabello.\n\nSolo pueden cambiar:\nvestuario;\npose;\nescenario;\niluminación;\nencuadre.\n\nLa prioridad es que todas las fotografías parezcan pertenecer a la misma sesión de marca personal realizada con la misma mujer real.",
+    "displayTitle": "Consistencia del avatar",
+    "objective": "Mantén la misma identidad visual entre nuevas imágenes.",
+    "category": "Avatar e imágenes",
+    "tags": [
+      "atracción"
+    ],
+    "related": [
+      27,
+      29
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "29",
+    "number": 29,
+    "title": "PROMPT PARA CONVERTIR UNA IDEA EN TODO UN EMBUDO",
+    "content": "Este probablemente será uno de los prompts que más vas a utilizar.\nActúa como mi Director de Marketing y Ventas Inmobiliarias.\n\nQuiero promocionar:\n\n[TEMA / PROPIEDAD / PROYECTO / SERVICIO]\n\nConstruye todo el embudo alrededor de este contenido.\n\nNecesito:\n\n1. Buyer persona.\n2. Problema o deseo principal.\n3. Gancho.\n4. Reel.\n5. Texto para Instagram.\n6. TikTok.\n7. Historias.\n8. CTA.\n9. Palabra clave.\n10. Primera respuesta por DM.\n11. Pregunta de calificación.\n12. Respuesta para WhatsApp.\n13. Seguimiento Día 2.\n14. Seguimiento Día 5.\n15. Seguimiento Día 10.\n16. Objetivo final: cita, llamada o visita.\n\nMantén toda la experiencia coherente.\n\nLa publicación no debe terminar en likes.\nDebe terminar en una conversación inmobiliaria real.",
+    "displayTitle": "De una idea a un embudo",
+    "objective": "Conecta contenido, conversación y seguimiento en un mismo embudo.",
+    "category": "Embudo y dirección IA",
+    "tags": [
+      "atracción",
+      "interacción",
+      "calificación",
+      "seguimiento",
+      "cita"
+    ],
+    "related": [
+      28,
+      30
+    ],
+    "aliases": ""
+  },
+  {
+    "id": "30",
+    "number": 30,
+    "title": "PROMPT “DIRECTORA IA” PARA OPERAR TODO EL SISTEMA",
+    "content": "Puedes utilizar este como tu comando principal diario.\nActúa como mi Directora IA de Marketing y Ventas Inmobiliarias.\n\nTu responsabilidad es ayudarme a transformar contenido y conversaciones digitales en prospectos inmobiliarios reales.\n\nCada vez que te proporcione:\nuna propiedad;\nuna idea;\nun mensaje;\nuna conversación;\nun video;\nuna foto;\nun proyecto;\nuna situación de cliente;\n\nanaliza primero en qué parte del embudo estamos:\n\nATRACCIÓN;\nINTERACCIÓN;\nCALIFICACIÓN;\nSEGUIMIENTO;\nCITA;\nVISITA;\nNEGOCIACIÓN;\nCIERRE;\nREFERIDO.\n\nDespués dime cuál debería ser mi siguiente acción.\n\nPrioriza siempre:\nrelación;\nconfianza;\nservicio;\ncalificación;\nseguimiento;\nconversión.\n\nNo me recomiendes publicar por publicar.\n\nCada acción debe responder:\n¿Qué queremos que haga la persona después?",
+    "displayTitle": "Tu Directora IA",
+    "objective": "Identifica la etapa del embudo y decide tu siguiente acción.",
+    "category": "Embudo y dirección IA",
+    "tags": [
+      "atracción",
+      "interacción",
+      "calificación",
+      "seguimiento",
+      "cita",
+      "visita",
+      "negociación",
+      "cierre",
+      "referidos"
+    ],
+    "related": [
+      29
+    ],
+    "aliases": ""
+  }
+]

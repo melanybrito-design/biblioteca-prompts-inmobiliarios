@@ -1,0 +1,6 @@
+output/
+.playwright-cli/
+tests/
+scripts/
+data/source.txt
+*.tsbuildinfo
